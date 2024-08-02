@@ -1,0 +1,8 @@
+site_name: "candidates-srv"
+site_description: "A microservice for managing candidates."
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
